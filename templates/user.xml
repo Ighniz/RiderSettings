@@ -1,9 +1,0 @@
-<templateSet group="user">
-  <template name="forMaxCount" value="for(int $ITERATOR$ = 0, maxCount = $LIST$; $ITERATOR$ &lt; maxCount; $ITERATOR$++)&#10;{&#10;    &#10;}" description="Represents a for loop with max count cached." toReformat="false" toShortenFQNames="true">
-    <variable name="ITERATOR" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="LIST" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-</templateSet>
