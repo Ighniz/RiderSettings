@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="cf3bfe97-f932-4e23-b7d4-282d55e3830e" name="Ighniz">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="jvedoyaJC" />
     <option name="AUTH_TYPE" value="BASIC" />
