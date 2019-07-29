@@ -14,6 +14,7 @@
     <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="parameter.info.max.visible.rows" value="10" />
-    <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="performance.watcher.sampling.interval.ms" value="100" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="500" />
   </component>
 </application>
