@@ -3,7 +3,7 @@
     <property name="created">2019-09-23T09:13:06</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-09-23T09:24:34</property>
+    <property name="modified">2019-09-23T09:44:18</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <attributes>
@@ -41,6 +41,12 @@
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="660e7a" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="2bcc2c" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -96,8 +102,8 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="7a7a7a" />
-        <option name="BACKGROUND" value="ededed" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -113,9 +119,6 @@
         <option name="FOREGROUND" value="39972a" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="TEXT">
-      <value />
     </option>
   </attributes>
 </scheme>
