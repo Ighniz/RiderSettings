@@ -3,7 +3,7 @@
     <property name="created">2019-09-23T09:13:06</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-09-23T09:44:18</property>
+    <property name="modified">2019-09-23T10:28:45</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <attributes>
@@ -40,7 +40,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="660e7a" />
+        <option name="FOREGROUND" value="d601a5" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -48,6 +48,12 @@
       <value>
         <option name="FOREGROUND" value="2bcc2c" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="505a8" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -91,7 +97,7 @@
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="660e7a" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -117,6 +123,12 @@
     <option name="ReSharper.DELEGATE_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="39972a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ff308c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
