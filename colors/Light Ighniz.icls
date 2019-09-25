@@ -1,11 +1,11 @@
-<scheme name="_@user_Default" version="142" parent_scheme="Default">
+<scheme name="Light Ighniz" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-09-23T09:07:24</property>
+    <property name="created">2019-09-25T09:14:21</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-09-25T09:14:52</property>
-    <property name="originalScheme">Default</property>
+    <property name="ideVersion">2018.3.3.0.0</property>
+    <property name="modified">2019-09-25T09:16:36</property>
+    <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
@@ -209,6 +209,15 @@
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="2bcc2c" />
+        <option name="BACKGROUND" value="0" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
     <option name="TYPO">
