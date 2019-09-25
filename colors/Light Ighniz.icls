@@ -4,7 +4,7 @@
     <property name="created">2019-09-25T09:14:21</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-09-25T09:20:23</property>
+    <property name="modified">2019-09-25T09:29:35</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -43,6 +43,12 @@
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="d601a5" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -224,6 +230,15 @@
       <value>
         <option name="EFFECT_COLOR" value="39972a" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="0" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
   </attributes>
