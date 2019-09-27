@@ -1,15 +1,15 @@
-<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+<scheme name="Darcula Ighniz" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-05-15T16:54:56</property>
+    <property name="created">2019-09-25T08:55:06</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2019-09-14T01:00:20</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="ideVersion">2018.3.3.0.0</property>
+    <property name="modified">2019-09-25T08:55:24</property>
+    <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="VCS_ANNOTATIONS_COLOR_1" value="f140e" />
     <option name="WHITESPACES" value="0" />
