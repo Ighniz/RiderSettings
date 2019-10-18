@@ -2,14 +2,26 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Projects/Snoopy/Assets/Scripts/Base/LiveEvent/SpellingBee/Components/SpellingBeeCharlieCursor.cs" timestamp="1571405657082">
+        <mark key="[" line="14" column="39" />
+      </file>
+      <file name="/Projects/Snoopy/Assets/Scripts/Base/Sequence/EndLevel/WinLevel.cs" timestamp="1571405727746">
+        <mark key="[" line="190" column="9" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
