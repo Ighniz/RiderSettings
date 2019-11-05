@@ -6,5 +6,6 @@
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
+    <entry key="actionSystem.fix.alt.gr" value="false" />
   </component>
 </application>
