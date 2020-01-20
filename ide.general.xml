@@ -22,6 +22,6 @@
     <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="ide.win.frame.decoration" value="true" />
-    <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>
