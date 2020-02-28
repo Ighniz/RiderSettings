@@ -8,7 +8,6 @@
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
-    <entry key="show.log.as.editor.tab" value="false" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="ide.borderless.title.debug" value="true" />
     <entry key="ide.title.debug" value="true" />
