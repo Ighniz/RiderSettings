@@ -4,7 +4,7 @@
     <property name="created">2019-09-25T08:55:06</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2020-04-05T22:42:44</property>
+    <property name="modified">2020-04-05T22:53:57</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -15,6 +15,12 @@
     <option name="WHITESPACES" value="0" />
   </colors>
   <attributes>
+    <option name="CODE_VISION_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="73ae66" />
