@@ -4,13 +4,16 @@
     <property name="created">2020-04-07T08:20:22</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-07T13:00:51</property>
+    <property name="modified">2020-04-08T23:32:47</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <colors>
+    <option name="TAB_UNDERLINE" value="1f8337" />
+  </colors>
   <attributes>
     <option name="CODE_VISION_DEFAULT">
       <value>
@@ -146,6 +149,11 @@
     <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="72ff56" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="1d7234" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
