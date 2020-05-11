@@ -4,7 +4,7 @@
     <property name="created">2020-04-07T08:20:22</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-15T12:31:14</property>
+    <property name="modified">2020-05-10T20:59:27</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -162,14 +162,6 @@
       <value>
         <option name="FOREGROUND" value="d0d0d0" />
         <option name="BACKGROUND" value="212121" />
-      </value>
-    </option>
-    <option name="WRONG_REFERENCES_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ff5647" />
-        <option name="BACKGROUND" value="fbffff" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="ff5647" />
       </value>
     </option>
   </attributes>
