@@ -2,10 +2,9 @@
   <component name="PowerModeII">
     <option name="customBamImageFolder" value="/" />
     <option name="customFlameImageFolder" value="/" />
-    <option name="enabled" value="false" />
     <option name="flamesEnabled" value="false" />
+    <option name="frameRate" value="60" />
     <option name="isCaretAction" value="true" />
-    <option name="shakeEnabled" value="true" />
     <option name="soundsFolder" value="/" />
   </component>
 </application>
